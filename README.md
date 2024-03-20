@@ -24,6 +24,7 @@ I have also done several projects in deep learning, Generative AI and various fu
 <a href="https://shubhamgupta2501.github.io/portfolio"><img alt="Website" src="https://img.shields.io/static/v1?label=Website&message=shubhamgupta2501.github.io/portfolio&color=Blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/shubhamgupta25"><img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=linkedin.com/in/shubhamgupta25&color=Blue?style=flat&logo=linkedin"></a>
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=shubhamgupta2501.shubhamgupta2501">
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shubhamgupta2501.shubhamgupta2501" />
 </p>
 
 
