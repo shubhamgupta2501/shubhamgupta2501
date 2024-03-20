@@ -18,13 +18,19 @@ I have also done several projects in deep learning, Generative AI and various fu
 - 📫 Reach me at: [saurabh.prasad197@gmail.com](mailto:shubham.g2596@gmail.com) or LinkedIn inmail
 - ⚡ Hobbies: Cricket, Games, Photography, Reading about new Tech
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,mui,html,css,vscode,github,,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
 ## Connect with Me 🤝🏻
 
 <p align="center">
 <a href="https://shubhamgupta2501.github.io/portfolio"><img alt="Website" src="https://img.shields.io/static/v1?label=Website&message=shubhamgupta2501.github.io/portfolio&color=Blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/shubhamgupta25"><img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=linkedin.com/in/shubhamgupta25&color=Blue?style=flat&logo=linkedin"></a>
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=shubhamgupta2501.shubhamgupta2501">
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shubhamgupta2501.shubhamgupta2501" />
 </p>
 
 
