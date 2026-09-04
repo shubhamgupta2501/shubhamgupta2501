@@ -1,7 +1,7 @@
 <!-- ══════════════════════ HEADER ══════════════════════ -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Shubham%20Gupta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Agentic%20Systems&descAlignY=56&descSize=20&descAlign=50" alt="Shubham Gupta — Software Engineer · AI & Agentic Systems" />
-</a>
+<p align="center">
+  <img width="100%" src="assets/header.svg" alt="Shubham Gupta — Software Engineer · AI & Agentic Systems" />
+</p>
 
 <!-- ══════════════════════ TYPING ══════════════════════ -->
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/shubhamgupta25"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://shubhamgupta2501.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="mailto:shubham.g2596@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img alt="Location" src="https://img.shields.io/badge/Long_Beach,_CA-2d333b?style=for-the-badge&logo=googlemaps&logoColor=white">
+  <img alt="Location" src="https://img.shields.io/badge/Jersey_City,_NJ-2d333b?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
 
 <br/>
@@ -36,6 +36,31 @@ stack:    [ C#/.NET 10, Orleans, Marten/Postgres, Angular 20, TypeScript, AWS ]
 mindset:  ship dark → verify → enable · TDD by default · multi-tenant safe
 edu:      M.S. Computer Science — CSU Long Beach
 ```
+
+<!-- ══════════════════════ AGENTIC ══════════════════════ -->
+### 🤖 Agentic Engineering
+
+> I don't just *use* AI — I **engineer with fleets of it**. My daily workflow is multi-agent: planning,
+> building, reviewing, and shipping through orchestrated agent lanes, with a human in the loop holding the
+> quality bar.
+
+<p align="center">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+  <img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP_Tooling-1f6feb?style=flat-square&logo=modelcontextprotocol&logoColor=white">
+  <img alt="Multi-Agent Orchestration" src="https://img.shields.io/badge/Multi--Agent_Orchestration-6E56CF?style=flat-square&logo=probot&logoColor=white">
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white">
+  <img alt="LLM Evals" src="https://img.shields.io/badge/LLM_Evals-2EAD33?style=flat-square&logo=checkmarx&logoColor=white">
+  <img alt="SLIM gated dev-cycle" src="https://img.shields.io/badge/SLIM_gated_dev--cycle-0A66C2?style=flat-square&logo=githubactions&logoColor=white">
+</p>
+
+| Capability | What I actually do with it |
+|---|---|
+| 🧩 **Multi-agent orchestration** | Fan out parallel agent lanes to design → build → review → ship large features as dependency-ordered slices, with a human hub enforcing merge order and decision records. |
+| 🔎 **Adversarial AI code review** | Built `review-pr` — a chain-aware reviewer that walks the proposal → plan → PR chain and hunts where a change wrongly *passes* bad input or *fails* good input, ending in a tier-gated merge verdict. |
+| ⚡ **Spike-gating** | Built `spike-gate` — turn every assumption, blocker, and external dependency into a *verified* fact (in parallel) **before** any design is built on it. |
+| 🧠 **Durable agent memory** | Built `grounding-cache` — one structured facts file so fresh sessions and subagents never re-derive load-bearing facts. |
+| 🔁 **Workflow retrospectives** | Built `workflow-retro` — reconstruct and measure an entire issue's multi-agent workflow end-to-end, then route the learnings back into the framework. |
+| 🏗️ **Agent-native delivery** | Ship real production features through Claude Code + MCP tools + a gated dev-cycle — under TDD, dark rollouts, and structured decision records. |
 
 <!-- ══════════════════════ WHAT I DO ══════════════════════ -->
 ### 🧠 What I do now
@@ -97,4 +122,4 @@ edu:      M.S. Computer Science — CSU Long Beach
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=shubhamgupta2501&color=6E56CF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+<img width="100%" src="assets/footer.svg" alt="footer" />
